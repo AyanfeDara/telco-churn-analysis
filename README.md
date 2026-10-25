@@ -64,4 +64,4 @@ See [GUIDE.md](GUIDE.md). Download the CSV from Kaggle into `data/`, then run th
 
 ---
 
-Olorunmaiye Peter Ayanfe | [LinkedIn] | [Portfolio website]
+Olorunmaiye Peter Ayanfe 
