@@ -1,0 +1,7 @@
+   data/*
+   !data/.gitkeep
+   .ipynb_checkpoints/
+   __pycache__/
+   *.zip
+   .DS_Store
+   Thumbs.db
